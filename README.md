@@ -1,12 +1,14 @@
-[![TicTacToe]
- <!-- ABOUT THE PROJECT -->
+<!-- TITLE -->
+## TicTacToe
+ 
+<!-- ABOUT THE PROJECT -->
 ## About The Project
 
-* [](TicTacToe was created in android studio to get to grips with coding for android.)
-* [](The code allows two players to play the game TicTacToe. )
-* [](The game starts with player one then switches whenever a new tile is selected, switching from O's to X's.)
-* [](Simple Logic has been implemented to identify whether either player has won the game.)
-* [](There is a counter to keep track of each players wins.)
+* TicTacToe was created in android studio to get to grips with coding for android.
+* The code allows two players to play the game TicTacToe. 
+* The game starts with player one then switches whenever a new tile is selected, switching from O's to X's.
+* Simple Logic has been implemented to identify whether either player has won the game.
+* There is a counter to keep track of each players wins.
 
 
 `github_username`, `repo_name`, `twitter_handle`, `email`, `project_title`, `project_description`
